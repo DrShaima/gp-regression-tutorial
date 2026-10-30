@@ -36,6 +36,10 @@ The last command executes the notebook's plain Python code cells in order, refre
 
 For interactive use, install JupyterLab separately (`python -m pip install jupyterlab`), run `jupyter lab`, and open the notebook. Restart the kernel and run all cells after changing settings. No GPU, API key, or downloaded dataset is needed.
 
+## Follow-up tutorial
+
+Continue with **[Prediction intervals and coverage](prediction-intervals/README.md)**: an executed notebook with formatted mathematical equations, visual comparisons of function and observation intervals, and repeated simulations of coverage and interval width.
+
 ## Project contents
 
 | File | Purpose |
