@@ -40,6 +40,8 @@ For interactive use, install JupyterLab separately (`python -m pip install jupyt
 
 Continue with **[Prediction intervals and coverage](prediction-intervals/README.md)**: an executed notebook with formatted mathematical equations, visual comparisons of function and observation intervals, and repeated simulations of coverage and interval width.
 
+Continue next with **[Split conformal prediction](split-conformal/README.md)**: held-out calibration, readable equations, an executed notebook, regional coverage plots, and a repeated-sampling experiment.
+
 ## Project contents
 
 | File | Purpose |
