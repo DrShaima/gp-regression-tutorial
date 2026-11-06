@@ -113,7 +113,7 @@ Simulation illustrates the theorem; it cannot prove it. A reported coverage belo
 3. Replace the line by a cubic polynomial fitted only on training data. Compare widths over independent repetitions, keeping the test data out of model selection.
 4. Set noise constant. Does constant interval width become more appropriate?
 
-A future extension is a positive, training-fitted scale function: divide absolute residuals by that scale before calibration, then multiply the threshold by the scale at prediction time. This can adapt interval widths, but does not automatically give conditional coverage.
+The [adaptive-width tutorial](../adaptive-conformal/README.md) uses a positive scale function fitted on training data: divide absolute residuals by that scale before calibration, then multiply the threshold by the scale at prediction time. This can adapt interval widths, but does not automatically give conditional coverage.
 
 ## References and reproducibility
 

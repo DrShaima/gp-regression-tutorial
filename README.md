@@ -42,6 +42,8 @@ Continue with **[Prediction intervals and coverage](prediction-intervals/README.
 
 Continue next with **[Split conformal prediction](split-conformal/README.md)**: held-out calibration, readable equations, an executed notebook, regional coverage plots, and a repeated-sampling experiment.
 
+Continue with **[Adaptive-width conformal prediction](adaptive-conformal/README.md)** to compare constant and adaptive intervals when noise changes with the input.
+
 ## Project contents
 
 | File | Purpose |
