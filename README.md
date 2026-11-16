@@ -44,6 +44,8 @@ Continue next with **[Split conformal prediction](split-conformal/README.md)**: 
 
 Continue with **[Adaptive-width conformal prediction](adaptive-conformal/README.md)** to compare constant and adaptive intervals when noise changes with the input.
 
+Continue with **[Prediction intervals under distribution shift](distribution-shift/README.md)** for an exact worked example of how changing input populations affects coverage.
+
 ## Project contents
 
 | File | Purpose |

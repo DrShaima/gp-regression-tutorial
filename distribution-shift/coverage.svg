@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710" height="380" viewBox="0 0 710 380" role="img" aria-labelledby="title desc">
+<title id="title">Coverage under covariate shift</title>
+<desc id="desc">Calibration group-one probability is 0.1. As deployment group-one probability increases from 0.1 to 0.8, exact marginal coverage decreases from 96.13 percent to 69.01 percent. A dashed line marks the 90 percent target.</desc>
+<rect width="710" height="380" fill="white"/>
+<g font-family="sans-serif" fill="#172536">
+<text x="355" y="25" text-anchor="middle" font-size="21">Exact coverage under covariate shift</text>
+<text x="355" y="47" text-anchor="middle" font-size="14">Nine calibration observations, calibration p = 0.1</text>
+<line x1="70" y1="300" x2="675" y2="300" stroke="#172536"/>
+<line x1="70" y1="100" x2="70" y2="300" stroke="#172536"/>
+<text x="60" y="305" text-anchor="end" font-size="13">0%</text>
+<text x="60" y="205" text-anchor="end" font-size="13">50%</text>
+<text x="60" y="105" text-anchor="end" font-size="13">100%</text>
+<rect x="95" y="107.7484" width="90" height="192.2516" fill="#286996"/><text x="140" y="95.7484" text-anchor="middle" font-size="15">96.13%</text><text x="140" y="325" text-anchor="middle" font-size="15">0.1</text>
+<rect x="240" y="123.2452" width="90" height="176.7548" fill="#286996"/><text x="285" y="111.2452" text-anchor="middle" font-size="15">88.38%</text><text x="285" y="325" text-anchor="middle" font-size="15">0.3</text>
+<rect x="385" y="138.7420" width="90" height="161.2580" fill="#286996"/><text x="430" y="126.7420" text-anchor="middle" font-size="15">80.63%</text><text x="430" y="325" text-anchor="middle" font-size="15">0.5</text>
+<rect x="530" y="161.9873" width="90" height="138.0127" fill="#286996"/><text x="575" y="149.9873" text-anchor="middle" font-size="15">69.01%</text><text x="575" y="325" text-anchor="middle" font-size="15">0.8</text>
+<line x1="70" y1="120" x2="675" y2="120" stroke="#af4d1d" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="665" y="113" text-anchor="end" fill="#af4d1d" font-size="13">90% target</text>
+<text x="365" y="360" text-anchor="middle" font-size="16">Deployment probability q</text>
+</g></svg>

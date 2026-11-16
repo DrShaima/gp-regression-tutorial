@@ -117,6 +117,10 @@ The scale model can help when it captures how errors vary across inputs. The reg
 
 Try replacing the increasing noise scale in the generator with a constant, then compare regional coverage and mean width again. Next try a U-shaped noise scale and see whether a log-linear scale model is flexible enough.
 
+## Next tutorial
+
+Continue with [Prediction intervals under distribution shift](../distribution-shift/README.md) to calculate how a change in group proportions affects marginal coverage.
+
 ## Further reading
 
 - Lei, G’Sell, Rinaldo, Tibshirani, and Wasserman (2018), *Distribution-Free Predictive Inference for Regression*. [Journal of the American Statistical Association](https://doi.org/10.1080/01621459.2017.1307116).
